@@ -1,4 +1,3 @@
-/googletest/
-**/build/
+**/build/git commit -m "文件名"
 **/resources
 sources.list
